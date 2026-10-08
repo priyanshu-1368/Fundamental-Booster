@@ -4,7 +4,7 @@
 A simple and interactive Python command-line program that collects user information, checks that the entered data is valid, and estimates the user’s birth year.
 
 ## Preview
-![Fundamental Booster](Screenshots/img1.png)
+![Fundamental Booster](Screenshots/image1.png)
 
 ## Output
 
